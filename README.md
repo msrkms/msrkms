@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working at [Codeware Limited](https://www.codewareltd.com/), Dhaka-1207
+- 🔭 Worked as Software Enginner at [Codeware Limited](https://www.codewareltd.com/) (10/03/21-31/08/23), Dhaka-1207
 - 👨‍💻 More Information available at [sajidur.com](https://sajidur.com)
 - 📫 How to reach me **mail@sajidur.com**
 
