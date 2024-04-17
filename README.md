@@ -4,15 +4,14 @@
 
 
 
-- 🔭 Worked as Software Enginner at [Codeware Limited](https://www.codewareltd.com/) (10/03/21-31/08/23), Dhaka-1207
+- 🔭 Former Software Enginner at [Codeware Limited](https://www.codewareltd.com/) (10/03/21-31/08/23), Dhaka-1207
 - 👨‍💻 More Information available at [sajidur.com](https://sajidur.com)
 - 📫 How to reach me **sajidurbd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/msrkms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amruthpillai" height="30" width="40" /></a>
-<a href="https://fb.com/msrkms" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" alt="1248133" height="30" width="40" /></a>
-<a href="https://www.instagram.com/msrkms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amruthpillai" height="30" width="40" /></a>
+<a href="https://www.xing.com/profile/Sajidur_Rahman3" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg" alt="amruthpillai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
